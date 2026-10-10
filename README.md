@@ -15,8 +15,12 @@ CURSED.EXE transforms ordinary photographs into collectible, humorous pixel-art 
 - Safe fallback metadata and categorized logging when AI configuration, provider access, or response validation fails
 
 ## Screenshots
+  ### Anomalies
+  ![Jarvis_PeanutButter](ScreenShots/jarvis_90d412a8.png)
 
-The repository intentionally does not include screenshots of the local collection. Generated cards and uploaded images are personal runtime data and are excluded from Git. Run the application locally to view the Laboratory and Vault.
+  ![Sprite_theCat](ScreenShots/sprite_2e82f28d.png)
+
+  ![theCat](ScreenShots/Screenshot_2026-10-10_23-41-38.png)
 
 ## Technology stack and architecture
 
