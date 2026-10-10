@@ -1,6 +1,7 @@
 # CURSED.EXE
 ![Cursed.exe Banner](ScreenShots/
 Screenshot_2026-10-10_23-19-31.png)
+
 CURSED.EXE transforms ordinary photographs into collectible, humorous pixel-art trading cards. Upload an object, let the vision model identify its real-world subject, and receive a horizontally formatted card with a funny entity name, class, rarity, stats, quirky text, and fictional lore.
 
 ## Features
