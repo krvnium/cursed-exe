@@ -22,6 +22,9 @@ CURSED.EXE transforms ordinary photographs into collectible, humorous pixel-art 
 
   ![theCat](ScreenShots/Screenshot_2026-10-10_23-41-38.png)
 
+  ### The Vault
+  ![THEVAULT](ScreenShots/ScreenShots/Screenshot_2026-10-10_23-52-58.png)
+
 ## Technology stack and architecture
 
 - **Python 3.14+**
